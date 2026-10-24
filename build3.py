@@ -124,6 +124,7 @@ css = '''
 src = src.replace('</style>', css + '</style>', 1)
 
 exec(open('p_mock3.py', encoding='utf8').read())
+exec(open('p_sb.py', encoding='utf8').read())
 
 # ---------- ลำดับขีด + รากของตัวอักษรใหม่ ----------
 from rad3 import RAD3
