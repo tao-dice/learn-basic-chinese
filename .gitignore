@@ -1,0 +1,14 @@
+# โปรไฟล์ Chrome + ไฟล์ทดสอบ/ภาพหน้าจอจาก shots.sh
+chrome-prof/
+shot-*.png
+sheet-*.html
+test.html
+# ไฟล์ที่ build3.py สร้างไว้ตรวจ syntax / สำเนาสำรอง
+main.js
+backup-v25.html
+hsk-friends.html
+# ข้อมูลภายนอกที่ดึงมาใช้ครั้งเดียว (ผลที่แปลงแล้วอยู่ใน l23.json / charinfo3.json)
+mb2.html
+mb3.html
+dictionary.txt
+__pycache__/
